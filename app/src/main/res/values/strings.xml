@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NavigationBar</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="sexes">
+
+    <item>Male</item>
+
+    <item>Female</item>
+
+</string-array>
+
+    <string-array name="Top_News">
+        <item>Afrikaans</item>
+        <item>English</item>
+        <item>Ndebele</item>
+        <item>Sepedi</item>
+        <item>Sesotho</item>
+        <item>Swazi</item>
+        <item>Tsonga</item>
+        <item>Tswana</item>
+        <item>Venda</item>
+        <item>Xhosa</item>
+        <item>Zulu</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Respekteer diegene wat hul beywer het om ons land op te bou en te ontwikkel; en	</item>
+        <item>Respect those who have worked to build and develop our country; and	</item>
+        <item>Re hlompha bao ba ilego ba katanela go aga le go hlabolla naga ya gaborena; mme	</item>
+        <item>Re tlotla ba ileng ba sebeletsa ho aha le ho ntshetsa pele naha ya rona; mme	</item>
+        <item>Sihlonipha labo abasebenzileko ekwakhiweni nekuthuthukisweni kwephasi lekhethu; begodu	</item>
+        <item>Sihlonipha labo labaye basebentela kwakha nekutfutfukisa live lakitsi; futsi	</item>
+        <item>Hi hlonipha lava tirheke ku aka no hluvukisa tiko ra hina; no</item>
+        <item>Re tlotla ba ba diretseng go aga le go tlhabolola naga ya rona; mme	</item>
+        <item>Ri ṱhonifha havho vhe vha shuma vha tshi itela u fhaṱa na u bveledzisa shango ḽashu; na	</item>
+        <item>Siyabahlonela abo baye basebenzela ukwakha nokuphucula ilizwe lethu; kwaye	</item>
+        <item>Sihlonipha labo abasebenzele ukwakha nokuthuthukisa izwe lethu; futhi	</item>
+    </string-array>
+
+</resources>
